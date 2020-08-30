@@ -1,13 +1,7 @@
 {
     "author_name": "pelmini",
     "author_email": "vivianbai77@gmail.com",
-
-    "package_name": "dumpling_cutter",
-    "package_version": "0.1.0",
-    "package_description": "cookie cutter for pelmini",
-    "package_url": "https://github.com/pelmini/{{cookiecutter.package_name}}",
-    
-    "readme_pypi_badge": true,
-    "readme_travis_badge": true,
-    "readme_travis_url": "https://travis-ci.org/kragniz/cookiecutter-pypackage-minimal"
+    "package_name": "hello_dumpling",
+    "package_description": "sample dumpling package for user",
+    "package_url": "https://github.com/pelmini/{{cookiecutter.package_name}}"
 }

@@ -11,6 +11,7 @@ cookiecutter https://github.com/pelmini/dumpling_cutter.git
 	- pylint 
 	- pytest
 	- black
+	- sphinx
 
 ## License
 Copyright 2020 pelmini
